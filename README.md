@@ -1,0 +1,1 @@
+To launch the browser, you need to click on the file browser.py several times, or if you do not have a Python program, you can open it through the CMD line (Win + R and write - cmd) and then write cd (directory) in the line; python browser.py
